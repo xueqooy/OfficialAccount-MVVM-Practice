@@ -1,5 +1,5 @@
 # OfficialAccount-MVVM-Practice
-iOS primary certification test.
+ND iOS primary certification test.
 
 ## iOS端试题
 #### 题目1：实现原型中的功能。具体详见【实现要求】工程已搭好框架和实现以下界面
